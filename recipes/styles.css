@@ -1,0 +1,18 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    background-color: rgba(247, 176, 129, 0.966);
+    border-radius: 10px;
+}
+
+ol {
+    background-color: rgba(247, 176, 129, 0.966);
+    border-radius: 10px;
+}
+
